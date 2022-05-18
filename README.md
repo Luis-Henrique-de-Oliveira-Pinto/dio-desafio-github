@@ -1,2 +1,3 @@
-# dio-desafio-github
-Desafio do Projeto sobre GitHub Bootcamp do Carrefour / Dio
+# Repositório do Desafio de Projeto sobre Git/GitHub da Dio
+Desafio do Projeto sobre GitHub Bootcamp do Carrefour / Dio - Minha calculadora em Python
+
